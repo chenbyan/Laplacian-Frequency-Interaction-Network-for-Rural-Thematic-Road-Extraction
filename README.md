@@ -4,7 +4,7 @@
 
 ## 论文方法总览（Overview）
 
-![论文方法总览 / Overview of the proposed framework](assets/overview.png)
+![论文方法总览 / Overview of the proposed framework](overview.png)
 
 ## Abstract
 
