@@ -6,6 +6,11 @@
 
 ![论文方法总览 / Overview of the proposed framework](overview.png)
 
+## 论文全文（PDF）
+
+
+[**LFINet · IJCNN 2026 论文全文（`paper.pdf`）**](paper.pdf)
+
 ## Abstract
 
 Rural thematic road network construction aims to extract topological road structures from movement trajectory images of agricultural machinery. However, this task faces challenges where downsampling methods commonly used in existing studies tend to blur the sparse high-frequency road structures, and the heavy noise from dense field operations often leads to fragmented or redundant topologies in the extracted networks. To address these challenges, we propose **LFINet**, a **Laplacian Frequency Interaction Network**. The network begins with a **Laplacian Multi-scale Separator (LMS)** to decouple the image into low-frequency semantic contexts and high-frequency structural details. These components are then processed by the **Cross-Frequency Interaction Block (CFIB)** through a dual-pathway architecture in which a **High-Frequency Block (HFB)** refines local structures while a **Spatial Transformer (ST)** captures global semantics. Subsequently, a **Frequency Gated Modulation (FGM)** mechanism integrates the features from pathways by leveraging semantic contexts to calibrate the structural details. Finally, a **Progressive Reconstruction Decoder** iteratively fuses multi-scale features to ensure topological consistency. Experiments conducted on a real-world agricultural trajectories dataset from **Henan Province, China**, show that LFINet establishes a new state-of-the-art. Specifically, it achieves an **F1-score of 92.54%** and an **IoU of 86.12%**, surpassing the second-ranked method by **0.64%** and **1.13%**, respectively. This confirms its capability to effectively construct topological road networks from noisy and sparse field data.
