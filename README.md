@@ -1,6 +1,6 @@
 # LFINet：面向农机轨迹影像的乡村专题路网拓扑构建
 
-**Laplacian Frequency Interaction Network（拉普拉斯频率交互网络）** · 中国农业大学 · 陈柏艳等 · IEEE IJCNN 2026（已接收 未发表）
+**Laplacian Frequency Interaction Network（拉普拉斯频率交互网络）** · 中国农业大学 · 陈柏艳等 · IEEE IJCNN 2026
 
 ## 论文方法总览（Overview）
 
@@ -9,7 +9,7 @@
 ## 论文全文（PDF）
 
 
-[**LFINet · IJCNN 2026 论文全文（`paper.pdf`）**](paper.pdf)
+[**LFINet · IJCNN 2026 论文全文（arXiv）**](http://arxiv.org/abs/2605.02866)
 
 ## Abstract
 
